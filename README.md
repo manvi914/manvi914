@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @manvi914
-- 👀 I’m interested in ... coding , both outdoor and indoor sports
+- 👀 I’m interested in ...
 - 🌱 I’m currently learning ...dsa with c++ :)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... via linkedin :)
